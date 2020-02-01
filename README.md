@@ -48,7 +48,7 @@ function example(text) {
 
 | Option | Description |
 | -- | -- |
-| <tt>wordBound</tt> | Optional predicate that tests if a character is a word bound. Default: space <tt>' '<tt>, tab <tt>'\t'</tt>, carriage return <tt>'\r'</tt> and new line <tt>'\n'</tt> |
+| <tt>wordBound</tt> | Optional predicate that tests if a character is a word bound. Default: space <tt>' '</tt>, tab <tt>'\t'</tt>, carriage return <tt>'\r'</tt> and new line <tt>'\n'</tt> |
 | <tt>wordsPerMinute</tt> | Optional words per minute which an average reader can read. Default: <tt>200</tt> |
 
 ---
