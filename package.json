@@ -6,7 +6,9 @@
     "reading-time",
     "typed",
     "types",
-    "typescript"
+    "typescript",
+    "word count",
+    "words per minute"
   ],
   "engines": {
     "node": ">=10.0.0"
